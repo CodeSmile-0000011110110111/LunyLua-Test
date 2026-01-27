@@ -9,6 +9,7 @@
     <EnableDefaultItems>false</EnableDefaultItems>
     <DefaultItemExcludes>$(DefaultItemExcludes);bin\**;obj\**</DefaultItemExcludes>
     <LangVersion>9</LangVersion>
+    <RootNamespace>LunyLua.Test</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
