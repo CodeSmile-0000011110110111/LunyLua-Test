@@ -36,4 +36,8 @@
     <ProjectReference Include="..\LunyLua.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="..\LunyLua\Lua-CSharp\netstandard2.1\Lua.dll" />
+  </ItemGroup>
+
 </Project>
